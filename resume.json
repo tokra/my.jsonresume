@@ -1,0 +1,227 @@
+{
+  "basics": {
+    "name": "Tomas Kramaric",
+    "label": "Backend Developer",
+    "picture": "https://avatars2.githubusercontent.com/u/2188084?v=3&s=460",
+    "email": "code@tokra.io",
+    "phone": "(421) 918-913399",
+    "website": "https://tokra.io",
+    "summary": "\"When work, commitment, and pleasure all become one and you reach that deep well where passion lives, nothing is impossible.\" --Nancy Coey. I am experienced Java Developer. I developed Java SE apps, SWT GUI apps & Java OSGi apps (Eclipse RCP). Currently developing Java EE apps with REST Web Services.   In private working on small Android project for community.   I love Linux/Unix systems & Shell scripting. Whenever I feel I need to run similar process over and over I rather autimatize it.  I have big passion in software development and Information technologies. Lately I started digging into JavaScript, Node.js and functional programming.",
+    "location": {
+      "address": "Kaplna 187",
+      "postalCode": "90084",
+      "city": "Kaplna",
+      "countryCode": "SK",
+      "region": "Slovakia"
+    },
+    "profiles": [
+      {
+        "network": "StackOverflow",
+        "username": "to-kra",
+        "url": "https://stackoverflow.com/users/1599213/to-kra"
+      },
+      {
+        "network": "Github",
+        "username": "to-kra",
+        "url": "https://github.com/to-kra"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "tokra1986",
+        "url": "https://www.linkedin.com/in/tokra1986/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "IBM ISC s.r.o, Slovakia",
+      "position": "Application Developer",
+      "website": "https://ibm.com",
+      "startDate": "2014-01-01",
+      "endDate": "",
+      "summary": "Development of \"Java Enterprise Edition\"​ based application using RESTful web services, running on \"IBM Websphere\"​ application server. DB2 database interconnection to application REST api. Transformation of HTML content to other formats e.g. PDF. RESTfull APIs documentation. Development under RationalTeamConcert & Jazz source control using Eclipse IDE. Lead migration from Jazz/RTC to Github Enterprise. Occasional development of \"Java Standard Edition\" console apps. Occasional development of Eclipse RCP desktop applications. Creating gradle & ant build scripts, integration with Jenkins. Driving innovation to our project, using useful modern technologies",
+      "highlights": [
+        "JavaEE development, creating RESTful services",
+        "Lead migration from Jazz/RTC to Github Enterprise",
+        "Daily help, support and teaching of younger colleagues",
+        "Test driven development",
+        "Agile / Scrum methodology",
+        "JavaSE applications",
+        "Microservices & Docker oriented"
+      ]
+    },
+    {
+      "company": "SIEMENS, Slovakia",
+      "position": "Software Developer - Java EclipseRCP Developer",
+      "website": "",
+      "startDate": "2012-06-01",
+      "endDate": "2013-12-01",
+      "summary": "Agile methodology based development (scrum). Eclipse Rich Client Platform based development. Desktop GUI design (SWT/RCP/RWT). Object-relational mapping Design - Java Persistence classes (EclipseLink), using SQL Apache Derby Embedded & MySQL. Creating 'Eclipse Help system' based HTML online help & documentation. Development under team (Source code) management system (Subversion). Working with many Open Source libraries (Apache projects etc.). Proficiency with basic Linux/Unix administration (Ubuntu Server Edition, FreeBSD). Proficiency with basic administration of Subversion, Apache Server, MySQL, Jetty & Apache Tomcat. Familiarity with Desktop Java SE based development. Familiarity with Eclipse Remote Application Platform based development (Server-like RCP)",
+      "highlights": [
+        "JavaSE applications",
+        "OSGi/Eclipse RCP modular Java applications",
+        "Agile / Scrum methodology"
+      ]
+    },
+    {
+      "company": "SIEMENS, Slovakia",
+      "position": "System Tester, System Integrator",
+      "website": "",
+      "startDate": "2008-01-01",
+      "endDate": "2012-07-30",
+      "summary": "Proficiency in Software System testing. Software System Integration. Software development support (Developer support, Symptom collection, evaluation & analysis). Basic Linux/Unix administration (Debian, Ubuntu Server, FreeBSD). Basic L1-L3 IP administration. Proficiency in Telco NGN/IMS products & technologies (Configuration & administration (SIEMENS, NSN)). Familiarity with Telco TDM products & technologies (Configuration & maintenance (SIEMENS, NSN)). Technical support (occasional traveling abroad)",
+      "highlights": [
+        "Software testing",
+        "Telecommunication technologies",
+        "Linux / Unix systems"        
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Slovak University of Technology, Slovakia",
+      "area": "Faculty of electrical engineering and IT",
+      "studyType": "Master of engineering",
+      "startDate": "2008-09-01",
+      "endDate": "2010-06-30",
+      "gpa": "7.0",
+      "courses": []
+    },
+    {
+      "institution": "Slovak University of Technology, Slovakia",
+      "area": "Faculty of electrical engineering and IT",
+      "studyType": "Bachelor",
+      "startDate": "2005-09-01",
+      "endDate": "2008-06-30",
+      "gpa": "6.0",
+      "courses": [
+        "CISCO CCNA : 1st semestre - IP Basics"
+      ]
+    },
+    {
+      "institution": "Secondary Technical School, Trnava",
+      "area": "Telecommunications",
+      "studyType": "Graduation",
+      "startDate": "2001-09-01",
+      "endDate": "2005-06-30",
+      "gpa": "7.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "SLOVAK TELECOM DAYS, 2009",
+      "date": "2009",
+      "awarder": "Slovak Telecom",
+      "summary": "NextGenerationNetworks Solution for TDM (fixed networks) operator"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Migration to Next Generation Networks",
+      "publisher": "STU",
+      "releaseDate": "2010-07-01",
+      "website": "",
+      "summary": "This work deals with problematic of convergence (of old telephone TDM/SS7 networks) to IP NGN / IMS. • Describes processes of migration for telco operator (to be able smoothly migrate from TDM to NGN). • These migration scenarios using ETSI TISPAN NGN / IMS model. • Work contains evaluations of real HW tests, which were done on NGN components from telco vendor NSN."
+    },
+    {
+      "name": "Migration scenarios from the point of view of Siemens",
+      "publisher": "STU",
+      "releaseDate": "2007-07-01",
+      "website": "",
+      "summary": "• This work deals with problematic of convergence of fixed TDM networks to NGN networks.  • Describes all technologies which have significant role in convergence process (N-ISDN, B-ISDN, ATM, IP). • Describes most important protocols used in NGN model (IP, MPLS, SIP, H.248, H.323). • Important part is dedicated to NGN components which were developed by Siemens company. • Describes also basic problematic of migration scenarios from TDM networks to NGN IP networks."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "master",
+      "keywords": [
+        "JavaEE",
+        "Web Services",
+        "REST",
+        "Gradle",
+        "Jenkins",
+        "JUnit",
+        "Node.JS",
+        "Docker",
+        "Git",
+        "JSON",
+        "XML"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Beginer",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Application Development",
+      "level": "Advanced",
+      "keywords": [
+        "JavaSE",
+        "SWT",
+        "OSGi",
+        "REGEX",
+        "Eclipse",
+        "Multi-threading"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Advanced",
+      "keywords": [
+        "Android"
+      ]
+    },
+    {
+      "name": "Linux Unix Operating Systems",
+      "level": "Advances",
+      "keywords": [
+        "Shell scripting",
+        "Basic linux servers administraions",
+        "MacOs"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Slovak",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Nature",
+      "keywords": [
+        "Gardening",
+        "Cactus & succulents growing"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Exploring new technologies"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "Macro photography"
+      ]
+    }
+  ]
+}
