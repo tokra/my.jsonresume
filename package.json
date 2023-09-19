@@ -1,0 +1,28 @@
+{
+  "name": "my.jsonresume",
+  "version": "1.0.0",
+  "description": "* This is current my CV / resume * It's written in JSON resume schema: https://github.com/jsonresume/resume-schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preview": "npx resume serve --theme slick",
+    "export": "npx resume export resume --format pdf --theme slick"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokra/my.jsonresume.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "author": "tomas.kramaric@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokra/my.jsonresume/issues"
+  },
+  "homepage": "https://github.com/tokra/my.jsonresume#readme",
+  "dependencies": {
+    "jsonresume-theme-slick": "^0.1.16",
+    "resume-cli": "^3.0.8"
+  }
+}
